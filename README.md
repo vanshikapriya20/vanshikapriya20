@@ -1,4 +1,8 @@
-### Hi there 👋
+#Hello There 👋
+## I am Vanshika Priya 
+<img style="float: right;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHRWsGE8frrdW7xNBwmPkdqB2oD7wQrCx1Jw&usqp=CAU">
+
+
 
 <!--
 **vanshikapriya20/vanshikapriya20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
